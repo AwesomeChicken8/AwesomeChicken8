@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AwesomeChicken8
 - 👀 I’m interested in minecraft plugin development
-- 🌱 I’m currently learning spigot api
+- 🌱 I’m currently trying to get my head around tensorflow & pytorch
 - 💞️ I’m looking to collaborate on nothing
 - 📫 How to reach me: dont
 
